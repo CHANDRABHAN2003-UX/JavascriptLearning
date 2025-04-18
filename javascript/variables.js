@@ -5,8 +5,8 @@ let b=Number(a)
 // console.log(typeof b)
 let c=""
 let d=String(c)
-console.log(d)
-console.log(typeof d)
+// console.log(d)
+// console.log(typeof d)
 //data types
 // Int(2 **52)
 // big Int
@@ -15,3 +15,7 @@ console.log(typeof d)
 // null standAlonevalue
 // undefined
 // symbol =>used in react component
+let df="66fg"
+let ef=Number(df)
+console.log(typeof ef)
+console.log(ef)
